@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Víctor 👋
 
-<!--
-**VictorTM90/VictorTM90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm <strong> a Junior front-end developer </strong> based in Barcelona. Currently currently focused on **React.js**, but opend to work with other technologies and languages.  You know, learn is unique way to adapted.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hard Skills 
+React.js | Node | Express | MongoDB | HTML | CSS 
+
+## Soft Skills
+
+🤗 Create a good work environment
+🤔 Thinking critically and evaluating ideas
+✍️ Research new ideas
+ 
+ ## hobbies
+ 
+📚🎓 Study psicohology 
+🏞️  trekking 
+🎮	Playing games
+ 
+
+
+<br /> ¡you can contact with me 👇!</p>
+- <a target ="_blank" href= "https://www.linkedin.com/in/victorteodoromoya "> linkedin </a> 
+- <a href="mailto:victor.tm90@gmail.com">Mail</a>
+
