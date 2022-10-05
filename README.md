@@ -1,7 +1,7 @@
 ### Hi, I'm Víctor 👋
 
 
-I'm <strong> a Junior front-end developer </strong> based in Barcelona. Currently currently focused on **React.js**, but opend to work with other technologies and languages.  You know, learn is unique way to adapted.  
+I'm <strong> a Junior front-end developer </strong> based in Barcelona. Currently  focused on **React.js**, but opend to work with other technologies and languages.  You know, learn is unique way to adapted.  
 
 ## Hard Skills 
 React.js | Node | Express | MongoDB | HTML | CSS 
